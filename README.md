@@ -4,7 +4,7 @@ About me
 
 Languages and tools
 [![C++](https://img.shields.io/badge/-C++-085371?style=for-the-badge&logo=C%2b%2b&logoColor=756389)]
-[![C#](https://img.shields.io/badge/-C#-085371?style=for-the-badge&logo=C%23&logoColor=756389)]
+[![C#](https://img.shields.io/badge/-C%23-085371?style=for-the-badge&logo=C%23&logoColor=756389)]
 [![Java](https://img.shields.io/badge/-Java-085371?style=for-the-badge&logo=java&logoColor=181818)]
 [![scs](https://img.shields.io/badge/-scs-085371?style=for-the-badge&logo=scs&logoColor=723561)]
 [![scg](https://img.shields.io/badge/-scg-085371?style=for-the-badge&logo=scg&logoColor=756389)]
