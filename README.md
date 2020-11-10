@@ -4,12 +4,14 @@ About me
 
 Languages and tools
 [![C++](https://img.shields.io/badge/-C++-085371?style=for-the-badge&logo=C%2b%2b&logoColor=756389)]
-C#
-[![Java](https://img.shields.io/badge/-Java-085371?style=for-the-badge&logo=java&logoColor=756389)]
-[![csc](https://img.shields.io/badge/-csc-085371?style=for-the-badge&logo=scs&logoColor=756389)]
-[![csg](https://img.shields.io/badge/-csg-085371?style=for-the-badge&logo=csg&logoColor=756389)]
-[![csl](https://img.shields.io/badge/-csl-085371?style=for-the-badge&logo=csl&logoColor=756389)]
-[![csn](https://img.shields.io/badge/-csn-085371?style=for-the-badge&logo=csn&logoColor=756389)]
+[![C#](https://img.shields.io/badge/-C#-085371?style=for-the-badge&logo=C&#35&logoColor=756389)]
+[![C#](https://img.shields.io/badge/-C#-085371?style=for-the-badge&logo=C&#x23&logoColor=756389)]
+
+[![Java](https://img.shields.io/badge/-Java-085371?style=for-the-badge&logo=java&logoColor=181818)]
+[![scs](https://img.shields.io/badge/-scs-085371?style=for-the-badge&logo=scs&logoColor=723561)]
+[![scg](https://img.shields.io/badge/-scg-085371?style=for-the-badge&logo=scg&logoColor=756389)]
+[![scl](https://img.shields.io/badge/-scl-085371?style=for-the-badge&logo=scl&logoColor=756389)]
+[![scn](https://img.shields.io/badge/-scn-085371?style=for-the-badge&logo=scn&logoColor=756389)]
 
 Follow me
 [![YouTube](https://img.shields.io/badge/-YouTube-085371?style=for-the-badge&logo=YouTube&logoColor=756389)](https://www.youtube.com/channel/UCAOtE1V7Ots4DjM8JLlrYgg)
