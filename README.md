@@ -10,6 +10,8 @@ Languages and tools
 [![scg](https://img.shields.io/badge/-scg-085371?style=for-the-badge&logo=scg&logoColor=756389)]
 [![scl](https://img.shields.io/badge/-scl-085371?style=for-the-badge&logo=scl&logoColor=756389)]
 [![scn](https://img.shields.io/badge/-scn-085371?style=for-the-badge&logo=scn&logoColor=756389)]
+[![psevdo-scp](https://img.shields.io/badge/-psevdo-scp-085371?style=for-the-badge&logo=psevdo-scp&logoColor=756389)]
+[![scp](https://img.shields.io/badge/-scp-085371?style=for-the-badge&logo=scp&logoColor=756389)]
 
 Follow me
 [![YouTube](https://img.shields.io/badge/-YouTube-085371?style=for-the-badge&logo=YouTube&logoColor=756389)](https://www.youtube.com/channel/UCAOtE1V7Ots4DjM8JLlrYgg)
