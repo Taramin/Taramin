@@ -1,15 +1,14 @@
 ![Header](https://github.com/Taramin/Taramin/blob/main/assets/crenjjj.png)
 
-About me
-Hi, my name is Darya!
+About me : Hi, my name is Darya!
 
 Languages and tools
-![C++](https://img.shields.io/badge/-C++-085371?style=for-the-badge&logo=C%2b%2b&logoColor=504099)
-![C#](https://img.shields.io/badge/-C%23-085371?style=for-the-badge&logo=C%23&logoColor=504099)
-![Java](https://img.shields.io/badge/-Java-085371?style=for-the-badge&logo=java&logoColor=504099)
-![scs](https://img.shields.io/badge/-scs-085371?style=for-the-badge&logo=scs&logoColor=504099)
-![scg](https://img.shields.io/badge/-scg-085371?style=for-the-badge&logo=scg&logoColor=504099)
-![scl](https://img.shields.io/badge/-scl-085371?style=for-the-badge&logo=scl&logoColor=504099)
+![C++](https://img.shields.io/badge/-C++-FED7C9?style=for-the-badge&logo=C%2b%2b&logoColor=504099)
+![C#](https://img.shields.io/badge/-C%23-FED7C9?style=for-the-badge&logo=C%23&logoColor=504099)
+![Java](https://img.shields.io/badge/-Java-504099?style=for-the-badge&logo=java&logoColor=504099)
+![scs](https://img.shields.io/badge/-scs-504099?style=for-the-badge&logo=scs&logoColor=504099)
+![scg](https://img.shields.io/badge/-scg-152099?style=for-the-badge&logo=scg&logoColor=504099)
+![scl](https://img.shields.io/badge/-scl-152099?style=for-the-badge&logo=scl&logoColor=504099)
 ![scn](https://img.shields.io/badge/-scn-085371?style=for-the-badge&logo=scn&logoColor=504099)
 ![psevdoSCP](https://img.shields.io/badge/-psevdoSCP-085371?style=for-the-badge&logo=psevdoSCP&logoColor=504099)
 ![scp](https://img.shields.io/badge/-scp-085371?style=for-the-badge&logo=scp&logoColor=504099)
