@@ -14,7 +14,7 @@ Languages and tools
 ![scp](https://img.shields.io/badge/-scp-FED7C9?style=for-the-badge&logo=scp&logoColor=504099)
 
 Follow me
-[![YouTube](https://img.shields.io/badge/-YouTube-99D9EA?style=for-the-badge&logo=YouTube&logoColor=504099)](https://www.youtube.com/channel/UCAOtE1V7Ots4DjM8JLlrYgg)
+           [![YouTube](https://img.shields.io/badge/-YouTube-99D9EA?style=for-the-badge&logo=YouTube&logoColor=504099)](https://www.youtube.com/channel/UCAOtE1V7Ots4DjM8JLlrYgg)
 [![ВК](https://img.shields.io/badge/-ВК-99D9EA?style=for-the-badge&logo=ВК&logoColor=504099)](https://vk.com/tara2001)
 [![TikTok](https://img.shields.io/badge/-TikTok-99D9EA?style=for-the-badge&logo=TikTok&logoColor=504099)](https://www.tiktok.com/@dtaramin?lang=ru)
 [![Telegram](https://img.shields.io/badge/-Telegram-99D9EA?style=for-the-badge&logo=Telegram&logoColor=504099)](https://web.telegram.org/#/im?p=@dtaramin)
