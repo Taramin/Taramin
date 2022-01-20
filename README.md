@@ -23,8 +23,8 @@ Additional languages and tools:
 
 Follow me : 
 [![ВК](https://img.shields.io/badge/-ВК-99D9EA?style=for-the-badge&logo=ВК&logoColor=504099)](https://vk.com/tara2001)
-[![TikTok](https://img.shields.io/badge/-TikTok-99D9EA?style=for-the-badge&logo=TikTok&logoColor=504099)](https://www.tiktok.com/@dtaramin?lang=ru)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-99D9EA?style=for-the-badge&logo=LinkedIn&logoColor=504099)](https://www.linkedin.com/in/taramin/)
 [![Telegram](https://img.shields.io/badge/-Telegram-99D9EA?style=for-the-badge&logo=Telegram&logoColor=504099)](https://web.telegram.org/#/im?p=@dtaramin)
 [![Gmail](https://img.shields.io/badge/-Gmail-99D9EA?style=for-the-badge&logo=Gmail&logoColor=504099)](mailto:dtaraminn@gmail.com)
 
-English level: B2-C1
+English level: B2
